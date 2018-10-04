@@ -5,7 +5,7 @@ Project URL: <a href="https://github.com/anuragsidana/DIGIFEST-VIKALP" >Visit</a
 
 
 <b>The Tar</b>: An Android App which manages the attendance of tutor/officers using GPS, Artificial Intelligence and Image Processing.
-Project URL: <a href="https://goo.gl/ruC86w"> Visit </a>
+Project URL: <a href="https://goo.gl/ruC86w"> Visit </a> <!--You should have added it also-->
 
 
 <b>Panacea</b> - Developed a PHP based website with my team at HackDTU to sell near expiry medicines to the one in need at cheaper rates.
